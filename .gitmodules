@@ -3,4 +3,4 @@
 	url = https://github.com/vickylai/hugo-theme-sam
 [submodule "public"]
 	path = public
-	url = https://github.com/gekalogiros/gekalogiros.github.io
+	url = git@github.com:gekalogiros/gekalogiros.github.io.git
