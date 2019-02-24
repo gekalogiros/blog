@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on I am Georgios</title>
+    <link>https://gkalogiros.com/tags/story/</link>
+    <description>Recent content in Story on I am Georgios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 11 Feb 2016 11:05:03 +0100</lastBuildDate>
+    
+	<atom:link href="https://gkalogiros.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Planning your startup project</title>
+      <link>https://gkalogiros.com/posts/startup-bootsrap/</link>
+      <pubDate>Thu, 11 Feb 2016 11:05:03 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/startup-bootsrap/</guid>
+      <description>This article will be devoted to a major task that should be considered before designing the next $$$$-billion start-up. It&amp;rsquo;s all about planning technologies, processes, the future, monetization, databases everything. When you develop technology products, many things can go wrong and you should be ahead by following a strict plan.
+Below I cite the plan that I usually follow when building the ideas I have (unsuccessfully most of the times but I believe this is a good plan though!</description>
+    </item>
+    
+  </channel>
+</rss>

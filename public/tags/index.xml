@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on I am Georgios</title>
+    <link>https://gkalogiros.com/tags/</link>
+    <description>Recent content in Tags on I am Georgios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 11 Aug 2018 11:24:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://gkalogiros.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://gkalogiros.com/tags/blog/</link>
+      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>https://gkalogiros.com/tags/code/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frameworks</title>
+      <link>https://gkalogiros.com/tags/frameworks/</link>
+      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Story</title>
+      <link>https://gkalogiros.com/tags/story/</link>
+      <pubDate>Thu, 11 Feb 2016 11:05:03 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://gkalogiros.com/tags/tech/</link>
+      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

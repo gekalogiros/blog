@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I am Georgios</title>
+    <link>https://gkalogiros.com/</link>
+    <description>Recent content on I am Georgios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 11 Aug 2018 11:24:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://gkalogiros.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Hugo Blog</title>
+      <link>https://gkalogiros.com/posts/new-hugo-blog/</link>
+      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/new-hugo-blog/</guid>
+      <description>I woke up with a mood of refreshing my blog today.
+I went through the content of my old million-times-hacked-wordpress website and decided to give something new a try.
+The only requirement I set was my new blog to be not a dynamic website.
+After some deep 5-min research, I ended up setting up a Jekyll and a Hugo template project.
+Long story short, I felt more comfortable with Hugo, mainly because I found a really clean and miminal template from Vicky Lai called Call me Sam.</description>
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://gkalogiros.com/posts/hello-world/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/hello-world/</guid>
+      <description>Hello, World!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gkalogiros.com/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>https://gkalogiros.com/about/</guid>
+      <description>Hello! I am Georgios. I like programming, cycling and photography!
+My tech journey started many many years a go in a galaxy far far away when I started programming in Clipper and Logo.
+It was super exciting!
+It taught me how be creative!
+I graduated from Computer Engineering and Informatics Department of University of Patras and I hold an MSc on Internet Technologies and Security from University of Bristol.
+Currently, I solve problems with code for fun and profit.</description>
+    </item>
+    
+    <item>
+      <title>Planning your startup project</title>
+      <link>https://gkalogiros.com/posts/startup-bootsrap/</link>
+      <pubDate>Thu, 11 Feb 2016 11:05:03 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/startup-bootsrap/</guid>
+      <description>This article will be devoted to a major task that should be considered before designing the next $$$$-billion start-up. It&amp;rsquo;s all about planning technologies, processes, the future, monetization, databases everything. When you develop technology products, many things can go wrong and you should be ahead by following a strict plan.
+Below I cite the plan that I usually follow when building the ideas I have (unsuccessfully most of the times but I believe this is a good plan though!</description>
+    </item>
+    
+  </channel>
+</rss>
