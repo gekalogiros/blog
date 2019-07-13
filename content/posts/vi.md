@@ -16,7 +16,11 @@ tags: ["unix","vi", "tools"]
 
 *w:* move to the start of the next word 
 
-*Shift+e:* move to the end of the next work
+*Shift+e:* move to the end of the next word
+
+*Shift+$* move to the end of the line
+
+*0* move to the start of the line
 
 # Actions
 
@@ -36,3 +40,4 @@ tags: ["unix","vi", "tools"]
 
 *!wq:* Save and exit
 
+*s:* Replace pattern with string according to flags (:s/pattern/string/flags where flags one of g,c)
