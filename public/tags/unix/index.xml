@@ -6,7 +6,7 @@
     <description>Recent content in unix on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 24 Feb 2019 02:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 02:00:53 +0000</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/tags/unix/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,20 @@
     <item>
       <title>Vi cheatsheet</title>
       <link>https://gkalogiros.com/posts/vi/</link>
-      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
+      <pubDate>Fri, 24 Feb 2017 02:00:53 +0000</pubDate>
       
       <guid>https://gkalogiros.com/posts/vi/</guid>
-      <description>Navigation hjkl: left/up/down/right
-gg: move to the start of the file
-Shift+g: move to the end of file
-w: move to the start of the next word
-Shift+e: move to the end of the next word
-Shift+$ move to the end of the line
-0 move to the start of the line
-Actions Esc: Switch to visual mode
-Text Edit i: Start Editing
-dd: Delete line
-Commands help: show vi documentation</description>
+      <description>Navigation left/up/down/right
+hjkl move to the start of the file
+gg move to the end of file
+Shift+g move to the start of the next word
+w move to the end of the next word
+Shift+e move to the end of the line
+Shift+$ move to the start of the line
+0 Actions Switch to visual mode
+Esc Text Edit Start Editing
+i Delete line
+dd Commands show vi documentation</description>
     </item>
     
   </channel>

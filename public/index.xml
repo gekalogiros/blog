@@ -6,60 +6,57 @@
     <description>Recent content on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Jul 2019 11:45:30 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 13:42:49 -0500</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Unix</title>
-      <link>https://gkalogiros.com/posts/unix/</link>
-      <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
+      <title>Scrum process</title>
+      <link>https://gkalogiros.com/posts/dev-process/</link>
+      <pubDate>Wed, 24 Feb 2016 02:40:34 +0000</pubDate>
       
-      <guid>https://gkalogiros.com/posts/unix/</guid>
-      <description>File Search *find . -name &amp;ldquo;dev&amp;quot;: Find files containing dev in current and sub directories</description>
-    </item>
-    
-    <item>
-      <title>Vi cheatsheet</title>
-      <link>https://gkalogiros.com/posts/vi/</link>
-      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
-      
-      <guid>https://gkalogiros.com/posts/vi/</guid>
-      <description>Navigation hjkl: left/up/down/right
-gg: move to the start of the file
-Shift+g: move to the end of file
-w: move to the start of the next word
-Shift+e: move to the end of the next word
-Shift+$ move to the end of the line
-0 move to the start of the line
-Actions Esc: Switch to visual mode
-Text Edit i: Start Editing
-dd: Delete line
-Commands help: show vi documentation</description>
-    </item>
-    
-    <item>
-      <title>New Hugo Blog</title>
-      <link>https://gkalogiros.com/posts/new-hugo-blog/</link>
-      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/posts/new-hugo-blog/</guid>
-      <description>I woke up with a mood of refreshing my blog today.
-I went through the content of my old million-times-hacked-wordpress website and decided to give something new a try.
-The only requirement I set was my new blog to be not a dynamic website.
-After some deep 5-min research, I ended up setting up a Jekyll and a Hugo template project.
-Long story short, I felt more comfortable with Hugo, mainly because I found a really clean and miminal template from Vicky Lai called Call me Sam.</description>
+      <guid>https://gkalogiros.com/posts/dev-process/</guid>
+      <description>I am a big fan of the Agile development process. I am also a big fan of Scrum. This is the typical set of ceremonies that we use to organize:
+Standup    When Duration Location     Every day 10&amp;rsquo; Zoom Channel or Team area    This is the typical 10 minute meeting where we share our updates. The standup has been scheduled early in the morning so that we can kick-start the day with having a plan in mind or focus on solving any blockers awaiting from the previous day.</description>
     </item>
     
     <item>
       <title>Planning your startup project</title>
       <link>https://gkalogiros.com/posts/startup-bootsrap/</link>
-      <pubDate>Thu, 11 Feb 2016 11:05:03 +0100</pubDate>
+      <pubDate>Wed, 11 Feb 2015 11:05:03 +0100</pubDate>
       
       <guid>https://gkalogiros.com/posts/startup-bootsrap/</guid>
       <description>This article will be devoted to a major task that should be considered before designing the next $$$$-billion start-up. It&amp;rsquo;s all about planning technologies, processes, the future, monetization, databases everything. When you develop technology products, many things can go wrong and you should be ahead by following a strict plan.
 Below I cite the plan that I usually follow when building the ideas I have (unsuccessfully most of the times but I believe this is a good plan though!</description>
+    </item>
+    
+    <item>
+      <title>Vi cheatsheet</title>
+      <link>https://gkalogiros.com/posts/vi/</link>
+      <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/vi/</guid>
+      <description>Navigation left/up/down/right
+hjkl move to the start of the file
+gg move to the end of file
+Shift+g move to the start of the next word
+w move to the end of the next word
+Shift+e move to the end of the line
+Shift+$ move to the start of the line
+0 Actions Switch to visual mode
+Esc Text Edit Start Editing
+i Delete line
+dd Commands show vi documentation</description>
+    </item>
+    
+    <item>
+      <title>Unix</title>
+      <link>https://gkalogiros.com/posts/unix/</link>
+      <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/unix/</guid>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;quot;: Find files containing dev in current and sub directories</description>
     </item>
     
   </channel>

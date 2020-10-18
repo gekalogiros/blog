@@ -1,43 +1,85 @@
 ---
 title: "Vi cheatsheet"
-date: 2019-02-24T02:00:53Z
+date: 2013-02-24T02:00:53Z
 showDate: true
 draft: false
-tags: ["unix","vi", "tools"]
+tags: [cheatsheet"]
 ---
 
 # Navigation
 
-*hjkl:* left/up/down/right
+left/up/down/right
+```
+hjkl
+```
 
-*gg:* move to the start of the file
+move to the start of the file
+```
+gg
+```
 
-*Shift+g:* move to the end of file
+move to the end of file
+```
+Shift+g
+```
 
-*w:* move to the start of the next word 
+move to the start of the next word 
+```
+w
+```
 
-*Shift+e:* move to the end of the next word
+move to the end of the next word
+```
+Shift+e
+```
 
-*Shift+$* move to the end of the line
+move to the end of the line
+```
+Shift+$
+``` 
 
-*0* move to the start of the line
+move to the start of the line
+```
+0
+```
 
 # Actions
 
-*Esc*: Switch to visual mode
+Switch to visual mode
+```
+Esc
+```
 
 # Text Edit
 
-*i:* Start Editing
+Start Editing
+```
+i
+```
 
-*dd:* Delete line
+Delete line
+```
+dd
+```
 
 # Commands
 
-*help:* show vi documentation
+show vi documentation
+```
+help 
+```
 
-*/word:* will search for occurences of "word" in the document
+will search for occurences of "word" in the document
+```
+/word
+```
 
-*!wq:* Save and exit
+Save and exit
+```
+!wq
+```
 
-*s:* Replace pattern with string according to flags (:s/pattern/string/flags where flags one of g,c)
+Replace pattern with string according to flags (:s/pattern/string/flags where flags one of g,c)
+```
+s
+``` 

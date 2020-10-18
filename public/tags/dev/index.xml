@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev on I am Georgios</title>
+    <link>https://gkalogiros.com/tags/dev/</link>
+    <description>Recent content in dev on I am Georgios</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 24 Feb 2016 02:40:34 +0000</lastBuildDate>
+    
+	<atom:link href="https://gkalogiros.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scrum process</title>
+      <link>https://gkalogiros.com/posts/dev-process/</link>
+      <pubDate>Wed, 24 Feb 2016 02:40:34 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/dev-process/</guid>
+      <description>I am a big fan of the Agile development process. I am also a big fan of Scrum. This is the typical set of ceremonies that we use to organize:
+Standup    When Duration Location     Every day 10&amp;rsquo; Zoom Channel or Team area    This is the typical 10 minute meeting where we share our updates. The standup has been scheduled early in the morning so that we can kick-start the day with having a plan in mind or focus on solving any blockers awaiting from the previous day.</description>
+    </item>
+    
+  </channel>
+</rss>

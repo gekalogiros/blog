@@ -1,9 +1,9 @@
 ---
 title: "Unix"
-date: 2019-07-08T11:45:30+01:00
+date: 2012-10-09T11:45:30+01:00
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["cli", "tooling", "cheatsheet"]
 ---
 # File Search
 

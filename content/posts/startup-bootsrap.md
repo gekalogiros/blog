@@ -1,6 +1,6 @@
 ---
 title: "Planning your startup project"
-date: 2016-02-11T11:05:03+01:00
+date: 2015-02-11T11:05:03+01:00
 showDate: true
 draft: false
 tags: ["blog","story"]

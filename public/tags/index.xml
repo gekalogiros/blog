@@ -6,15 +6,24 @@
     <description>Recent content in Tags on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Jul 2019 11:45:30 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2016 02:40:34 +0000</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>dev</title>
+      <link>https://gkalogiros.com/tags/dev/</link>
+      <pubDate>Wed, 24 Feb 2016 02:40:34 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>blog</title>
       <link>https://gkalogiros.com/tags/blog/</link>
-      <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
+      <pubDate>Wed, 11 Feb 2015 11:05:03 +0100</pubDate>
       
       <guid>https://gkalogiros.com/tags/blog/</guid>
       <description></description>
@@ -23,54 +32,36 @@
     <item>
       <title>story</title>
       <link>https://gkalogiros.com/tags/story/</link>
-      <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
+      <pubDate>Wed, 11 Feb 2015 11:05:03 +0100</pubDate>
       
       <guid>https://gkalogiros.com/tags/story/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tools</title>
-      <link>https://gkalogiros.com/tags/tools/</link>
-      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
+      <title>cheatsheet</title>
+      <link>https://gkalogiros.com/tags/cheatsheet/</link>
+      <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
       
-      <guid>https://gkalogiros.com/tags/tools/</guid>
+      <guid>https://gkalogiros.com/tags/cheatsheet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>unix</title>
-      <link>https://gkalogiros.com/tags/unix/</link>
-      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
+      <title>cli</title>
+      <link>https://gkalogiros.com/tags/cli/</link>
+      <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
       
-      <guid>https://gkalogiros.com/tags/unix/</guid>
+      <guid>https://gkalogiros.com/tags/cli/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>vi</title>
-      <link>https://gkalogiros.com/tags/vi/</link>
-      <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
+      <title>tooling</title>
+      <link>https://gkalogiros.com/tags/tooling/</link>
+      <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
       
-      <guid>https://gkalogiros.com/tags/vi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>frameworks</title>
-      <link>https://gkalogiros.com/tags/frameworks/</link>
-      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/frameworks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://gkalogiros.com/tags/tech/</link>
-      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/tech/</guid>
+      <guid>https://gkalogiros.com/tags/tooling/</guid>
       <description></description>
     </item>
     
