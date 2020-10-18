@@ -3,7 +3,7 @@ title: "Vi cheatsheet"
 date: 2013-02-24T02:00:53Z
 showDate: true
 draft: false
-tags: [cheatsheet"]
+tags: ["tooling", "cheatsheet"]
 ---
 
 # Navigation

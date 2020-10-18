@@ -3,7 +3,7 @@ title: "Planning your startup project"
 date: 2015-02-11T11:05:03+01:00
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["dev"]
 ---
 
 This article will be devoted to a major task that should be considered before designing the next $$$$-billion start-up. It's all about planning technologies, processes, the future, monetization, databases everything. When you develop technology products, many things can go wrong and you should be ahead by following a strict plan.
