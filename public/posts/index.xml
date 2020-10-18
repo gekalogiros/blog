@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on I am Georgios</title>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
       
       <guid>https://gkalogiros.com/posts/unix/</guid>
-      <description>File Search *find . -name &amp;ldquo;dev&amp;ldquo;: Find files containing dev in current and sub directories</description>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;quot;: Find files containing dev in current and sub directories</description>
     </item>
     
     <item>

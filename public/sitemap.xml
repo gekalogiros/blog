@@ -1,10 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gkalogiros.com/tags/blog/</loc>
+    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/</loc>
+    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/story/</loc>
+    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/</loc>
+    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gkalogiros.com/posts/unix/</loc>
     <lastmod>2019-07-08T11:45:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/tools/</loc>
+    <lastmod>2019-02-24T02:00:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/unix/</loc>
+    <lastmod>2019-02-24T02:00:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/vi/</loc>
+    <lastmod>2019-02-24T02:00:53+00:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +48,17 @@
   </url>
   
   <url>
+    <loc>https://gkalogiros.com/tags/frameworks/</loc>
+    <lastmod>2018-08-11T11:24:12+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gkalogiros.com/posts/new-hugo-blog/</loc>
+    <lastmod>2018-08-11T11:24:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/tech/</loc>
     <lastmod>2018-08-11T11:24:12+01:00</lastmod>
   </url>
   
@@ -33,66 +78,11 @@
   </url>
   
   <url>
-    <loc>https://gkalogiros.com/tags/blog/</loc>
-    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gkalogiros.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/frameworks/</loc>
-    <lastmod>2018-08-11T11:24:12+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/</loc>
-    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gkalogiros.com/gallery/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/story/</loc>
-    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/</loc>
-    <lastmod>2019-07-08T11:45:30+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/tech/</loc>
-    <lastmod>2018-08-11T11:24:12+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/tools/</loc>
-    <lastmod>2019-02-24T02:00:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/unix/</loc>
-    <lastmod>2019-02-24T02:00:53+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/vi/</loc>
-    <lastmod>2019-02-24T02:00:53+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

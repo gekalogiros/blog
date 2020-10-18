@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on I am Georgios</title>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Blog</title>
+      <title>blog</title>
       <link>https://gkalogiros.com/tags/blog/</link>
       <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
       
@@ -21,16 +21,7 @@
     </item>
     
     <item>
-      <title>Frameworks</title>
-      <link>https://gkalogiros.com/tags/frameworks/</link>
-      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/frameworks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Story</title>
+      <title>story</title>
       <link>https://gkalogiros.com/tags/story/</link>
       <pubDate>Mon, 08 Jul 2019 11:45:30 +0100</pubDate>
       
@@ -39,16 +30,7 @@
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://gkalogiros.com/tags/tech/</link>
-      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
+      <title>tools</title>
       <link>https://gkalogiros.com/tags/tools/</link>
       <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
       
@@ -57,7 +39,7 @@
     </item>
     
     <item>
-      <title>Unix</title>
+      <title>unix</title>
       <link>https://gkalogiros.com/tags/unix/</link>
       <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
       
@@ -66,11 +48,29 @@
     </item>
     
     <item>
-      <title>Vi</title>
+      <title>vi</title>
       <link>https://gkalogiros.com/tags/vi/</link>
       <pubDate>Sun, 24 Feb 2019 02:00:53 +0000</pubDate>
       
       <guid>https://gkalogiros.com/tags/vi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frameworks</title>
+      <link>https://gkalogiros.com/tags/frameworks/</link>
+      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://gkalogiros.com/tags/tech/</link>
+      <pubDate>Sat, 11 Aug 2018 11:24:12 +0100</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/tech/</guid>
       <description></description>
     </item>
     

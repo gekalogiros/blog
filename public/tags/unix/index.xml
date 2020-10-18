@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Unix on I am Georgios</title>
+    <title>unix on I am Georgios</title>
     <link>https://gkalogiros.com/tags/unix/</link>
-    <description>Recent content in Unix on I am Georgios</description>
+    <description>Recent content in unix on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 24 Feb 2019 02:00:53 +0000</lastBuildDate>

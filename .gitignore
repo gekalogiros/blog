@@ -3,3 +3,6 @@
 
 # IDE
 .iml
+
+# Local scripts
+preview.sh
