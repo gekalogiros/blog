@@ -21,24 +21,6 @@
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://gkalogiros.com/tags/blog/</link>
-      <pubDate>Wed, 11 Feb 2015 11:05:03 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>story</title>
-      <link>https://gkalogiros.com/tags/story/</link>
-      <pubDate>Wed, 11 Feb 2015 11:05:03 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cheatsheet</title>
       <link>https://gkalogiros.com/tags/cheatsheet/</link>
       <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
@@ -48,20 +30,20 @@
     </item>
     
     <item>
+      <title>tooling</title>
+      <link>https://gkalogiros.com/tags/tooling/</link>
+      <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/tooling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cli</title>
       <link>https://gkalogiros.com/tags/cli/</link>
       <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
       
       <guid>https://gkalogiros.com/tags/cli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tooling</title>
-      <link>https://gkalogiros.com/tags/tooling/</link>
-      <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/tooling/</guid>
       <description></description>
     </item>
     
