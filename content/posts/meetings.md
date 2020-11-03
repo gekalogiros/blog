@@ -31,14 +31,17 @@ The lifetime of a meeting consists of three different periods. Below, I describe
 
 How can these problems be solved though? My team tested the following framework:
 
-- Meetings should not be booked unless there is a super important topic that need to be discussed.
+- Meetings should not be booked unless there is a super important topic that requires face-to-face discussion.
 Meetings are the most expensive way of taking a decision and they must be the last resort. Many people, myself included, have taken the liberty to book a meeting for non-important things. Small, daily desicions can be taken on Slack or other communication channels without spending the time of X people. Having said that, a meeting is the best approach for taking important decisions super fast. Considering the positive impact that such a decision might have for the company, investing the times is totally worth it.
 
-- Follow the single responsibility principle for meetings as well. 
+- Follow the single responsibility principle. 
 Trying to squeeze multiple discussions within a single meeting requires super powers and most people don't have them. 
 
-- If a decision requires involvement of multiple teams and strict coordination think about creating a wiki page with thoughts and ask for feedback there. 
+- If a decision requires the involvement of multiple teams think about documenting your thoughts first on a wiki page. Invite all parties to add comments and once you have a good overview about what needs to be achieved, book a meeting with the key people representing different ideas.
+
+- The scope of a meetings needs to be clear for all participants. This is done better through documentation.
+An agenda needs to be put together before the time of the meeting. The agenda needs to be in a public wiki if possible. Any useful resources that will bring attendees up to speed with what will be discussed should go to the wiki page as well. Also add a section called "Actions". This section will be used during or at the end of the meeting to capture any actions. Documenting all these details can be a good approach so that things are not forgotten.
 
 
-- Many meetings don't have 
-	
+
+ 
