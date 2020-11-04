@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tooling on I am Georgios</title>
+    <title>Tooling on I am Georgios</title>
     <link>https://gkalogiros.com/tags/tooling/</link>
-    <description>Recent content in tooling on I am Georgios</description>
+    <description>Recent content in Tooling on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 24 Feb 2013 02:00:53 +0000</lastBuildDate>
@@ -18,16 +18,14 @@
       
       <guid>https://gkalogiros.com/posts/vi/</guid>
       <description>Navigation left/up/down/right
-hjkl move to the start of the file
-gg move to the end of file
-Shift+g move to the start of the next word
-w move to the end of the next word
-Shift+e move to the end of the line
-Shift+$ move to the start of the line
-0 Actions Switch to visual mode
-Esc Text Edit Start Editing
-i Delete line
-dd Commands show vi documentation</description>
+hjkl  move to the start of the file
+gg  move to the end of file
+Shift+g  move to the start of the next word
+w  move to the end of the next word
+Shift+e  move to the end of the line
+Shift+$  move to the start of the line
+0  Actions Switch to visual mode
+Esc  Text Edit Start Editing</description>
     </item>
     
     <item>
@@ -36,7 +34,7 @@ dd Commands show vi documentation</description>
       <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
       
       <guid>https://gkalogiros.com/posts/unix/</guid>
-      <description>File Search *find . -name &amp;ldquo;dev&amp;quot;: Find files containing dev in current and sub directories</description>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;ldquo;: Find files containing dev in current and sub directories</description>
     </item>
     
   </channel>

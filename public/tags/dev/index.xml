@@ -1,15 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dev on I am Georgios</title>
+    <title>Dev on I am Georgios</title>
     <link>https://gkalogiros.com/tags/dev/</link>
-    <description>Recent content in dev on I am Georgios</description>
+    <description>Recent content in Dev on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 24 Feb 2016 02:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 22:42:54 +0000</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to become a meeting guru?</title>
+      <link>https://gkalogiros.com/posts/meetings/</link>
+      <pubDate>Wed, 01 Nov 2017 22:42:54 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/meetings/</guid>
+      <description>Meetings constitute a very effective way for a team to discuss problems and take decisions.
+Unfortunately, many teams, including mine, abuse the ability to organize meetings and end up failing the primary goal of such a ceremony which is taking a decision.
+I was really curious about whether there are other teams out there having similar productivity issues. I kicked off an extensive reasearch (I was actually eating popcorns and reading several posts on Reddit) and tried to extract some intel that would later help my team become more effective when conducting meetings.</description>
+    </item>
     
     <item>
       <title>Scrum process</title>

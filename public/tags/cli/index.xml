@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cli on I am Georgios</title>
+    <title>Cli on I am Georgios</title>
     <link>https://gkalogiros.com/tags/cli/</link>
-    <description>Recent content in cli on I am Georgios</description>
+    <description>Recent content in Cli on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 09 Oct 2012 11:45:30 +0100</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
       
       <guid>https://gkalogiros.com/posts/unix/</guid>
-      <description>File Search *find . -name &amp;ldquo;dev&amp;quot;: Find files containing dev in current and sub directories</description>
+      <description>File Search *find . -name &amp;ldquo;dev&amp;ldquo;: Find files containing dev in current and sub directories</description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on I am Georgios</title>
@@ -6,22 +6,13 @@
     <description>Recent content in Tags on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 24 Feb 2016 02:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Feb 2013 02:00:53 +0000</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>dev</title>
-      <link>https://gkalogiros.com/tags/dev/</link>
-      <pubDate>Wed, 24 Feb 2016 02:40:34 +0000</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cheatsheet</title>
+      <title>Cheatsheet</title>
       <link>https://gkalogiros.com/tags/cheatsheet/</link>
       <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
       
@@ -30,20 +21,38 @@
     </item>
     
     <item>
-      <title>tooling</title>
-      <link>https://gkalogiros.com/tags/tooling/</link>
-      <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
-      
-      <guid>https://gkalogiros.com/tags/tooling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cli</title>
+      <title>Cli</title>
       <link>https://gkalogiros.com/tags/cli/</link>
       <pubDate>Tue, 09 Oct 2012 11:45:30 +0100</pubDate>
       
       <guid>https://gkalogiros.com/tags/cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev</title>
+      <link>https://gkalogiros.com/tags/dev/</link>
+      <pubDate>Wed, 01 Nov 2017 22:42:54 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Process</title>
+      <link>https://gkalogiros.com/tags/process/</link>
+      <pubDate>Wed, 01 Nov 2017 22:42:54 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tooling</title>
+      <link>https://gkalogiros.com/tags/tooling/</link>
+      <pubDate>Sun, 24 Feb 2013 02:00:53 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/tags/tooling/</guid>
       <description></description>
     </item>
     

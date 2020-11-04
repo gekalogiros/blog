@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -8,27 +8,17 @@
   </url>
   
   <url>
-    <loc>https://gkalogiros.com/</loc>
-    <lastmod>2018-02-13T13:42:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gkalogiros.com/posts/</loc>
     <lastmod>2018-02-13T12:21:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gkalogiros.com/tags/dev/</loc>
-    <lastmod>2016-02-24T02:40:34+00:00</lastmod>
+    <loc>https://gkalogiros.com/posts/meetings/</loc>
+    <lastmod>2017-11-01T22:42:54+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gkalogiros.com/posts/dev-process/</loc>
-    <lastmod>2016-02-24T02:40:34+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/</loc>
     <lastmod>2016-02-24T02:40:34+00:00</lastmod>
   </url>
   
@@ -38,23 +28,8 @@
   </url>
   
   <url>
-    <loc>https://gkalogiros.com/tags/cheatsheet/</loc>
-    <lastmod>2013-02-24T02:00:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/tooling/</loc>
-    <lastmod>2013-02-24T02:00:53+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gkalogiros.com/posts/vi/</loc>
     <lastmod>2013-02-24T02:00:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gkalogiros.com/tags/cli/</loc>
-    <lastmod>2012-10-09T11:45:30+01:00</lastmod>
   </url>
   
   <url>
@@ -64,10 +39,53 @@
   
   <url>
     <loc>https://gkalogiros.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/cheatsheet/</loc>
+    <lastmod>2013-02-24T02:00:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/cli/</loc>
+    <lastmod>2012-10-09T11:45:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/dev/</loc>
+    <lastmod>2017-11-01T22:42:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/</loc>
+    <lastmod>2017-11-01T22:42:54+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gkalogiros.com/gallery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/process/</loc>
+    <lastmod>2017-11-01T22:42:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/</loc>
+    <lastmod>2013-02-24T02:00:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/tooling/</loc>
+    <lastmod>2013-02-24T02:00:53+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
