@@ -11,7 +11,7 @@ My tech journey started many many years a go in a galaxy far far away when I sta
 
 It was super exciting! 
 
-It taught me how be creative, curious and in the times that came a professional engineer. 
+It taught me how be creative, curious and in the times that came, a professional engineer. 
 
 I graduated from [Computer Engineering and Informatics Department](https://www.ceid.upatras.gr/en) of [University of Patras](http://www.upatras.gr/en) and I hold an MSc on Internet Technologies and Security from [University of Bristol](http://www.bristol.ac.uk/). 
 
