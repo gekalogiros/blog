@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://gkalogiros.com/posts/caring-about-security/</loc>
+    <lastmod>2017-11-15T20:12:34+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gkalogiros.com/posts/meetings/</loc>
     <lastmod>2017-11-01T22:42:54+00:00</lastmod>
   </url>
@@ -62,7 +67,7 @@
   
   <url>
     <loc>https://gkalogiros.com/</loc>
-    <lastmod>2017-11-01T22:42:54+00:00</lastmod>
+    <lastmod>2017-11-15T20:12:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,8 +82,20 @@
   </url>
   
   <url>
+    <loc>https://gkalogiros.com/tags/security/</loc>
+    <lastmod>2017-11-15T20:12:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://gkalogiros.com/tags/</loc>
     <lastmod>2013-02-24T02:00:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gkalogiros.com/tags/tech/</loc>
+    <lastmod>2017-11-15T20:12:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   

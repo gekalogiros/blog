@@ -6,10 +6,19 @@
     <description>Recent content on I am Georgios</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Nov 2017 22:42:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2017 20:12:34 +0000</lastBuildDate>
     
 	<atom:link href="https://gkalogiros.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Caring about security in an unsafe fast-paced world</title>
+      <link>https://gkalogiros.com/posts/caring-about-security/</link>
+      <pubDate>Wed, 15 Nov 2017 20:12:34 +0000</pubDate>
+      
+      <guid>https://gkalogiros.com/posts/caring-about-security/</guid>
+      <description>Caring about Security in an unsafe fast-paced world A few words about my childhood and how this connects to my deep will to care about security. Since the moment I started fiddling around with computers, I realised how important it is, keeping my private data, for personal consumption only. For every digital movement I used to do, installing a program or simply creating a file with the wrong permissions, It was clear that a risk was arising.</description>
+    </item>
     
     <item>
       <title>How to become a meeting guru?</title>
