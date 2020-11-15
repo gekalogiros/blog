@@ -11,12 +11,12 @@ My tech journey started many many years a go in a galaxy far far away when I sta
 
 It was super exciting! 
 
-It taught me how be creative! 
+It taught me how be creative, curious and in the times that came a professional engineer. 
 
 I graduated from [Computer Engineering and Informatics Department](https://www.ceid.upatras.gr/en) of [University of Patras](http://www.upatras.gr/en) and I hold an MSc on Internet Technologies and Security from [University of Bristol](http://www.bristol.ac.uk/). 
 
 Currently, I solve problems with code for fun and profit. 
 
-When I'm not coding you'll find me cycling and thinking about problems that I wasn't able to solve the day before.
+When I'm not coding you'll find me cycling and thinking about problems that I struggled with the day before.
 
 
