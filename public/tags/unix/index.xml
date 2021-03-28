@@ -12,14 +12,14 @@
     
     
     <item>
-      <title>Lsof</title>
+      <title>life in the Terminal Volume 1 - LSOF</title>
       <link>https://gkalogiros.com/posts/lsof/</link>
       <pubDate>Sun, 28 Jun 2020 11:29:52 +0100</pubDate>
       
       <guid>https://gkalogiros.com/posts/lsof/</guid>
       <description>Life in the Terminal - Volume 1 The terminal is the best friend of an application developer. There are multiple tools that can be piped together to extract meaningful insights for the problem at hand without developing a single line of code.
 Today we will be exploring lsof
-LSOF What is it? lsof is a command line tool that can be used for analyzing files in a running system. The defintion of file is quite wide in the context of lsofe.</description>
+LSOF What is it? lsof is a command line tool that can be used for analyzing open files. The definition of file in a unix-based system is very wide: It can represent directories, text files, sockets or streams.</description>
     </item>
     
   </channel>
