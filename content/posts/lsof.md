@@ -1,5 +1,5 @@
 ---
-title: "life in the Terminal Volume 1 - LSOF"
+title: "Living and Breathing Terminal Volume 1 - LSOF"
 date: 2020-06-28T11:29:52+01:00
 showDate: true
 draft: false
