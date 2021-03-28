@@ -112,13 +112,14 @@ Unix-based filesystems use a data structure to store filesystem objects. For typ
 This is one of the most useful columns for most of the uses cases. It is actually the name/path of the open file.
 
 ## Finding Internet related Files using specific ports
-So far, we have learnt that everything in UNIX-based systems are getting represented by files. An Internet connection wouldn’t differ. 
-In order to find what process has allocated a specific port we can run the following command
+
+You should know a this point that many things in UNIX-based systems represented by files. This stands for internet connections too. 
+In order to find which process has allocated a specific port we can run the following command
+
 ```
 $ lsof -i :8080
 COMMAND   PID USER       FD   TYPE             DEVICE SIZE/OFF NODE NAME
 java    39734 georgios  171u  IPv6 0x20964e8e5af3b6db      0t0  TCP *:http-alt (LISTEN)
-
 ```
 
 Here, `-i` is being used to only consider internet related files. 
