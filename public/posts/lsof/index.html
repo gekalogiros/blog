@@ -46,7 +46,7 @@
 
         
 <div class="section" id="content">
-    Sun Jun 28, 2020 &#183; 971 words
+    Sun Jun 28, 2020 &#183; 975 words
     
     <div class="tag-container">
         
@@ -156,7 +156,7 @@ X: SCO OpenServer Xenix lock on the entire file
 space: if there is no lock.
 </code></pre>
 
-<p>It is not very likely that you will need the above but the explanation above must be sufficient.</p>
+<p>It is not very likely that you will need the above but the explanation must be sufficient.</p>
 
 <ul>
 <li><p>TYPE
@@ -164,7 +164,7 @@ In Unix-based systems everything is a file. Hard-drives, usb sticks, sockets or 
 <code>man lsof | grep -A 200 &quot;       TYPE&quot; | less</code></p></li>
 
 <li><p>DEVICE
-This column represents the device on which the file is attached or a hex address. If <code>DEVICE</code> value is a device then you can run <code>diskutil list</code>  on a osX machine to get a mapping between the integer you see under this column and the device that it represents.</p></li>
+This column represents the device on which the file is attached or a hex address. If the <code>DEVICE</code> value represents indeed a device then you can run <code>diskutil list</code>  on your mac computer  to get a mapping between the integer you see under this column and the device that is represented by this number.</p></li>
 
 <li><p>SIZE/OFF
 This is the size of the file or file offset in bytes. This is an optional value.</p></li>
