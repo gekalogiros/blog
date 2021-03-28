@@ -46,7 +46,7 @@
 
         
 <div class="section" id="content">
-    Sun Jun 28, 2020 &#183; 976 words
+    Sun Jun 28, 2020 &#183; 971 words
     
     <div class="tag-container">
         
@@ -156,18 +156,25 @@ X: SCO OpenServer Xenix lock on the entire file
 space: if there is no lock.
 </code></pre>
 
-<p>It is not very likely that you will need the above but the explanation above must be sufficient.
-* TYPE
+<p>It is not very likely that you will need the above but the explanation above must be sufficient.</p>
+
+<ul>
+<li><p>TYPE
 In Unix-based systems everything is a file. Hard-drives, usb sticks, sockets or processing text, everything is backed by a file in our “favourite” Operating System. <code>TYPE</code> aims to explain what a listed <code>FD</code> is about.  The list here is endless. Use the following hacky command to get to the section of the <code>lsof</code> documentation listing all the different types:
-<code>man lsof | grep -A 200 &quot;       TYPE&quot; | less</code>
-* DEVICE
-This column represents the device on which the file is attached or a hex address. If <code>DEVICE</code> value is a device then you can run <code>diskutil list</code>  on a osX machine to get a mapping between the integer you see under this column and the device that it represents.
-* SIZE/OFF
-This is the size of the file or file offset in bytes. This is an optional value.
-* NODE
-Unix-based filesystems use a data structure to store filesystem objects. For typical filesystem files, the <code>NODE</code> represents the number of the said object. It can also be the Internet protocol type e.g <code>TCP</code> or <code>UDP</code> as well <code>STR</code> if the open file represents a stream. There are a couple of other available types that you will probably never need.
-* NAME
-This is one of the most useful columns for most of the uses cases. It is actually the name/path of the open file.</p>
+<code>man lsof | grep -A 200 &quot;       TYPE&quot; | less</code></p></li>
+
+<li><p>DEVICE
+This column represents the device on which the file is attached or a hex address. If <code>DEVICE</code> value is a device then you can run <code>diskutil list</code>  on a osX machine to get a mapping between the integer you see under this column and the device that it represents.</p></li>
+
+<li><p>SIZE/OFF
+This is the size of the file or file offset in bytes. This is an optional value.</p></li>
+
+<li><p>NODE
+Unix-based filesystems use a data structure to store filesystem objects. For typical filesystem files, the <code>NODE</code> represents the number of the said object. It can also be the Internet protocol type e.g <code>TCP</code> or <code>UDP</code> as well <code>STR</code> if the open file represents a stream. There are a couple of other available types that you will probably never need.</p></li>
+
+<li><p>NAME
+This is one of the most useful columns for most of the uses cases. It is actually the name/path of the open file.</p></li>
+</ul>
 
 <h2 id="finding-internet-related-files-using-specific-ports">Finding Internet related Files using specific ports</h2>
 
@@ -187,7 +194,6 @@ java    39734 georgios  171u  IPv6 0x20964e8e5af3b6db      0t0  TCP *:http-alt (
 <pre><code>$ lsof -c java | less
 COMMAND   PID USER       FD     TYPE             DEVICE  SIZE/OFF                NODE NAME
 java    38866 georgios  cwd      DIR                1,5       672          8617079685 /Users/georgios/projects/...
-
 </code></pre>
 
 <p>This command aims to capture all the different open files that have been opened by a specific executable, in this particular example, the executable is <code>java</code>.
