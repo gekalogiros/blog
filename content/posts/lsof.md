@@ -93,14 +93,14 @@ X: SCO OpenServer Xenix lock on the entire file
 space: if there is no lock.
 ```
 
-It is not very likely that you will need the above but the explanation above must be sufficient.
+It is not very likely that you will need the above but the explanation must be sufficient.
 
 * TYPE
 In Unix-based systems everything is a file. Hard-drives, usb sticks, sockets or processing text, everything is backed by a file in our “favourite” Operating System. `TYPE` aims to explain what a listed `FD` is about.  The list here is endless. Use the following hacky command to get to the section of the `lsof` documentation listing all the different types:
 `man lsof | grep -A 200 "       TYPE" | less`
 
 * DEVICE
-This column represents the device on which the file is attached or a hex address. If `DEVICE` value is a device then you can run `diskutil list`  on a osX machine to get a mapping between the integer you see under this column and the device that it represents. 
+This column represents the device on which the file is attached or a hex address. If the `DEVICE` value represents indeed a device then you can run `diskutil list`  on your mac computer  to get a mapping between the integer you see under this column and the device that is represented by this number. 
 
 * SIZE/OFF
 This is the size of the file or file offset in bytes. This is an optional value.
